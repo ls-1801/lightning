@@ -2,6 +2,7 @@
 #define STORE_H
 
 #include <mutex>
+#include <unordered_set>
 #include <string>
 #include <sys/types.h>
 
